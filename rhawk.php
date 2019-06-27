@@ -5,6 +5,14 @@ require 'var.php';
 echo $cln;
 system("clear");
 redhawk_banner();
+echo"$yellow *************************************                       
+$green        +SANTRI KALIWUNGU+
+$red Author    : santri cyber --azzkury--
+$blue github    : https://github.com/SantriCyber
+$red instagram : santri.cyberteam 
+$lightred blog      : https://santricoder.blogspot.com
+$darkgray Date      : $date.
+$yellow *************************************";
 if (extension_loaded('curl') || extension_loaded('dom'))
   {
   }
